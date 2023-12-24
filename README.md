@@ -23,7 +23,7 @@ Golang
 - `./CLIExample`
   
 
-## CLIExample
+## [CLIExample](https://github.com/ppadti/Go-Projects/tree/main/CLIExample)
 This command-line interface (CLI) project processes user input to format and display specific details based on arguments provided. 
 The first argument (mandatory) can be a name, company, or hometown. It's essential and must be present; otherwise, the application will prompt an error message.
 
@@ -40,7 +40,7 @@ The first argument (mandatory) can be a name, company, or hometown. It's essenti
 **Full Option:** Displays the full name (if available) based on the first argument input.
 
 
-## FileSystem
+## [FileSystem](https://github.com/ppadti/Go-Projects/tree/main/FileSystem)
 This project simplifies file management by creating a text file if it doesn't exist. 
 It allows users to store data as key-value pairs and retrieve specific values by entering the corresponding key via the command-line interface (CLI). 
 ### Features:
